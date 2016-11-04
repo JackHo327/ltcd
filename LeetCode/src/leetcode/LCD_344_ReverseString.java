@@ -1,4 +1,4 @@
-package lcd_344_reversestring;
+package leetcode;
 import java.util.Scanner;
 /**
  *
