@@ -28,7 +28,7 @@ SELECT Score,
     FROM Scores
     WHERE Score >= s.Score) Rank
 FROM Scores s
-ORDER BY  Score DESC;
+ORDER BY Score DESC;
 
 ## Another way
 SELECT Score,
