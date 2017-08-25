@@ -94,4 +94,3 @@ HAVING SUM(CASE
     ELSE 0 END) >= ABS(SUM(SIGN(Employee.Salary - alias.Salary)))
 ORDER BY  Employee.Id;
 
-## Note: In MySQL 5.6, this code runs fine, but if you are using MySQL 5.7+, please use ANY_VALUE(Employee.Id) instead of Employee.Id in the SELECT statement. Otherwise, you may encouter the following error message: Error Code: 1055. Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'Employee.Id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by.
