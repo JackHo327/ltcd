@@ -3,7 +3,7 @@
  *
  * @author Renzhi He
  */
-public class LCD_292_NimGame {
+public class TwoNineTwo_NimGame {
 
     public static void main(String[] args) {
 

@@ -7,7 +7,7 @@ import java.util.List;
  * Write a program that outputs the string representation of numbers from 1 to n.
  * But for multiples of three it should output 鈥淔izz鈥� instead of the number and for the multiples of five output 鈥淏uzz鈥�.  * For numbers which are multiples of both three and five output 鈥淔izzBuzz鈥�.
  */
-public class LCD_412_FizzBuzz {
+public class FourOneTwo_FizzBuzz {
     public List<String> FizzBuzz(int n){
         
         final int THREE = 3;

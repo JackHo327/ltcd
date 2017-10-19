@@ -3,7 +3,7 @@ import java.util.Scanner;
  *
  * @author Renzhi He
  */
-public class LCD_345_ReverseVowels_String {
+public class ThreeFourFive_ReverseVowels_String {
 
     public String reverseVowels(String s) {
 

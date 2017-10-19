@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @mission Write a function that takes a string as input and returns the string reversed.
  * @example: Given s = "hello", return "olleh".
  */
-public class LCD_344_ReverseString {
+public class ThreeFourFour_ReverseString {
 //    !!! Time Limit Exceeded
 //    public String reverseString(String s) {
 //        String reverseStr = new String();
