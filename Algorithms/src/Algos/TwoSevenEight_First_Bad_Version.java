@@ -1,4 +1,4 @@
-package Top50FaceBook;
+package Algos;
 
 public class TwoSevenEight_First_Bad_Version {
 	public static void main(String[] args) {

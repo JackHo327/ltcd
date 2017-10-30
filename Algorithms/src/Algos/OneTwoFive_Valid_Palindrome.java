@@ -1,4 +1,4 @@
-package Top50FaceBook;
+package Algos;
 
 public class OneTwoFive_Valid_Palindrome {
 

@@ -1,4 +1,4 @@
-package Top50FaceBook;
+package Algos;
 
 import java.util.HashMap;
 import java.util.Map;

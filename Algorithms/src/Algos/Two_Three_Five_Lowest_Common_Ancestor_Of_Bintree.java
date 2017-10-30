@@ -1,4 +1,4 @@
-package Top50FaceBook;
+package Algos;
 
 import javax.swing.tree.TreeNode;
 

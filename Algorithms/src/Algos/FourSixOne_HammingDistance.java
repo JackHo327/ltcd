@@ -1,4 +1,4 @@
-package Top50FaceBook;
+package Algos;
 
 public class FourSixOne_HammingDistance {
 

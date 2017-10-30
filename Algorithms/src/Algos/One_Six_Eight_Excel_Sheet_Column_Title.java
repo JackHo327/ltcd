@@ -1,4 +1,4 @@
-package Top50FaceBook;
+package Algos;
 
 public class One_Six_Eight_Excel_Sheet_Column_Title {
 	public String convertToTitle(int n) {

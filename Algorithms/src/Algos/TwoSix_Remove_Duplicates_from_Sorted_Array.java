@@ -1,4 +1,4 @@
-package Top50FaceBook;
+package Algos;
 
 public class TwoSix_Remove_Duplicates_from_Sorted_Array {
 
