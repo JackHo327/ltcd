@@ -9,7 +9,7 @@ public class EightEight_Merge_Sorted_Array {
 
 	public void merge(int[] nums1, int m, int[] nums2, int n) {
 		int m1 = m - 1;
-		int n1 = n - 1;
+		int n1 = n - 2;
 		int mn = m + n - 1;
 
 		while (m1 > -1 && n1 > -1) {

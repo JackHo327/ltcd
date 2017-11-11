@@ -8,6 +8,14 @@ import javax.swing.tree.TreeNode;
  */
 
 public class Two_Three_Five_Lowest_Common_Ancestor_Of_Bintree {
+	private class TreeNode {
+		int val;
+		TreeNode  left;
+		TreeNode right;
+		TreeNode(int x) {
+			val = x;
+		}
+	}
 	public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 
 		// two situations:
@@ -30,14 +38,14 @@ public class Two_Three_Five_Lowest_Common_Ancestor_Of_Bintree {
 		return root;
 
 		// if (root == p || root == q || root == null) { return root;
-		// }//Èç¹ûÒÑ¾­ÕÒµ½p,q·µ»Ø£¬»òÕßrootÎªnull£¬·µ»Ønull
-		// TreeNode left = lowestCommonAncestor(root.left, p, q);//ÏÈÔÚ×ó×ÓÊ÷ÕÒ
-		// TreeNode right = lowestCommonAncestor(root.right, p, q);//ÔÙÕÒÓÒ×ÓÊ÷
-		// if(left != null && right != null){//Èç¹û×óÓÒ×ÓÊ÷·Ö±ðÓÐÒ»¸ö£¬Ôò·µ»Ø¸ù½Úµã
+		// }//ï¿½ï¿½ï¿½ï¿½Ñ¾ï¿½ï¿½Òµï¿½p,qï¿½ï¿½ï¿½Ø£ï¿½ï¿½ï¿½ï¿½ï¿½rootÎªnullï¿½ï¿½ï¿½ï¿½ï¿½ï¿½null
+		// TreeNode left = lowestCommonAncestor(root.left, p, q);//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		// TreeNode right = lowestCommonAncestor(root.right, p, q);//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		// if(left != null && right != null){//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ò·µ»Ø¸ï¿½ï¿½Úµï¿½
 		// return root;
-		// }else if(left!=null){//Èç¹ûÖ»ÔÚ×ó×ÓÊ÷£¬·µ»Øleft
+		// }else if(left!=null){//ï¿½ï¿½ï¿½Ö»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½left
 		// return left;
-		// }else{//Èç¹ûÖ»ÔÚÓÒ×ÓÊ÷£¬·µ»Øright
+		// }else{//ï¿½ï¿½ï¿½Ö»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½right
 		// return right;
 		// }
 	}

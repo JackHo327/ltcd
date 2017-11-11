@@ -62,7 +62,7 @@ public class ThreeFourFive_ReverseVowels_String {
 	}
 
 	public static void main(String[] args) {
-		LCD_345_ReverseVowels_String neLCD = new LCD_345_ReverseVowels_String();
+		ThreeFourFive_ReverseVowels_String neLCD = new ThreeFourFive_ReverseVowels_String();
 		String newStr = neLCD.reverseVowels("race a car");
 		System.out.println(newStr);
 	}

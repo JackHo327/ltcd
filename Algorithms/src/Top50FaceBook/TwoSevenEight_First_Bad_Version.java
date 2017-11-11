@@ -4,6 +4,10 @@ public class TwoSevenEight_First_Bad_Version {
 	public static void main(String[] args) {
 
 	}
+	// fake code
+	boolean isBadVersion(int s) {
+		return true;
+	}
 
 	public int firstBadVersion(int n) {
 		if (n == 1) {

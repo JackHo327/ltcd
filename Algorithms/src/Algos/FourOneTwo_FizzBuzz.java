@@ -42,7 +42,7 @@ public class FourOneTwo_FizzBuzz {
 	}
 
 	public static void main(String[] args) {
-		LCD_412_FizzBuzz FB = new LCD_412_FizzBuzz();
+		FourOneTwo_FizzBuzz FB = new FourOneTwo_FizzBuzz();
 		List<String> FBList = FB.FizzBuzz(15);
 		for (String i : FBList) {
 			System.out.println("\"" + i + "\"");

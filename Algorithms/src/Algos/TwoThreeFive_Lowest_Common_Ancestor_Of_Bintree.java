@@ -7,7 +7,15 @@ import javax.swing.tree.TreeNode;
  * left; TreeNode right; TreeNode(int x) { val = x; } }
  */
 
-public class Two_Three_Five_Lowest_Common_Ancestor_Of_Bintree {
+public class TwoThreeFive_Lowest_Common_Ancestor_Of_Bintree {
+    private class TreeNode {
+        int val;
+        TreeNode  left;
+        TreeNode right;
+        TreeNode(int x) {
+            val = x;
+        }
+    }
 	public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 
 		// two situations:

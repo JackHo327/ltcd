@@ -1,3 +1,5 @@
+package Algos;
+
 import java.util.Scanner;
 /**
  *
@@ -39,7 +41,7 @@ public class ThreeFourFour_ReverseString {
         System.out.println("Enter sth here.");
         Scanner scnr = new Scanner(System.in);
         String str = scnr.nextLine();
-        LCD_344_ReverseString new344 = new LCD_344_ReverseString();
+        ThreeFourFour_ReverseString new344 = new ThreeFourFour_ReverseString();
         String reverseS = new344.reverseString(str);
         System.out.println(reverseS);
     }
