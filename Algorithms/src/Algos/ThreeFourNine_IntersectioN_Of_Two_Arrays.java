@@ -7,6 +7,9 @@ import java.util.Set;
 
 public class ThreeFourNine_IntersectioN_Of_Two_Arrays {
 
+    public static void main(String[] args){
+
+    }
 
     // Time complexity: O(n)
     // Space complexity: O(n)
@@ -39,7 +42,7 @@ public class ThreeFourNine_IntersectioN_Of_Two_Arrays {
     }
 
 
-    // Time complexitu: O(n)
+    // Time complexity: O(n)
     // Space complexity: O(n)
     public int[] intersection(int[] nums1, int[] nums2) {
 
@@ -73,28 +76,32 @@ public class ThreeFourNine_IntersectioN_Of_Two_Arrays {
 
         return ret;
 
-//         Time Complexity: O(n^2)
-//         Space Complexity: O(n)
-//         ArrayList<Integer> a = new ArrayList<>();
-//         for(int i = 0 ; i < nums1.length; i++){
-//             for(int k = 0; k < nums2.length; k++){
-//                 if(a.contains(nums1[i])){
-//                     break;
-//                 }else{
-//                     if(nums1[i] == nums2[k]){
-//                         a.add(nums1[i]);
-//                         break;
-//                     }
-//                 }
-//             }
-//         }
+    }
 
-//         int [] b = new int[a.size()];
+    //  Time Complexity: O(n^2)
+    //  Space Complexity: O(n)
+    public int[] intersection_Two_Loops(int[] nums1, int[] nums2) {
 
-//         for(int i = 0; i < a.size(); i++){
-//             b[i] = a.get(i);
-//         }
+        ArrayList<Integer> a = new ArrayList<>();
+        for (int i = 0; i < nums1.length; i++) {
+            for (int k = 0; k < nums2.length; k++) {
+                if (a.contains(nums1[i])) {
+                    break;
+                } else {
+                    if (nums1[i] == nums2[k]) {
+                        a.add(nums1[i]);
+                        break;
+                    }
+                }
+            }
+        }
 
-//         return b;
+        int[] b = new int[a.size()];
+
+        for (int i = 0; i < a.size(); i++) {
+            b[i] = a.get(i);
+        }
+
+        return b;
     }
 }
