@@ -15,18 +15,7 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TwoFourSix_Strobogrammatic_Number.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoFourSix_Strobogrammatic_Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1900">
-              <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -175,10 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithms/src/Top50FaceBook/TwoSevenEight_First_Bad_Version.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoTwoZero_Contains_Duplicate_III.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoThreeSeven_Delete_Node_In_A_Linked_List.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/Algos/FourFourFive_Addd_Two_Numbers_II.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoOne_Merge_Two_Sorted_Lists.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/OneFiveFive_Min_Stack.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoThreeTwo_Implement_Queue_using_Stacks.java" />
@@ -223,9 +208,13 @@
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/FourZeroNine_Longest_Palindrome.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/FiveNineNine_Minimum_Index_Sum_of_Two_List.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/SixFourFive_Set_Mismatch.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/Test/Tester.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/FiveNineFour_Longest_Harmonious_Subsequence.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoFourSix_Strobogrammatic_Number.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Algos/ThreeFiveNine_Logger_Rate_Limiter.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Algos/SixTwoFour_Maximum_Distance_in_Arrays.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Test/Tester.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Algos/SevenThreeFour_Sentence_Similarity.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Algos/SevenTwoZero_Longest_Word_in_Dictionary.java" />
       </list>
     </option>
   </component>
@@ -345,7 +334,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="Algos" type="cbb8eebc:String" user="Algos" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -374,29 +384,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="Algos" type="cbb8eebc:String" user="Algos" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -637,11 +626,12 @@
       <workItem from="1513797046232" duration="31397000" />
       <workItem from="1514069211755" duration="8303000" />
       <workItem from="1514259681419" duration="11312000" />
+      <workItem from="1514407305917" duration="7311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142731000" />
+    <option name="totallyTimeSpent" value="150042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -654,7 +644,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="-14" width="3868" height="2120" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295393" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3287596" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -663,12 +652,12 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2328877" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="0" y="0" width="917" height="1920" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2328877" sideWeight="0.51042813" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23582888" sideWeight="0.5126235" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2328877" sideWeight="0.4895719" order="0" side_tool="false" content_ui="combo" x="93" y="265" width="947" height="1262" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23582888" sideWeight="0.4873765" order="0" side_tool="false" content_ui="combo" x="93" y="265" width="947" height="1262" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298573" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986666" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -724,34 +713,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoThreeTwo_Implement_Queue_using_Stacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/ThreeFourSix_Moving_Average_from_Data_Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoFourTwo_Valid_Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/FiveFour_Spiral_Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1063,13 +1024,13 @@
           <caret line="51" column="3" lean-forward="false" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="docComment;method#OneSevenZero_Two_Sum_III_Data_Structure_Design#0;class#OneSevenZero_Two_Sum_III_Data_Structure_Design#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="docComment;method#add#0;class#OneSevenZero_Two_Sum_III_Data_Structure_Design#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="docComment;method#find#0;class#OneSevenZero_Two_Sum_III_Data_Structure_Design#0" expanded="true" />
+            <element signature="docComment;method#OneSevenZero_Two_Sum_III_Data_Structure_Design#0;class#OneSevenZero_Two_Sum_III_Data_Structure_Design#0" expanded="false" />
+            <element signature="e#278#279#0" expanded="false" />
+            <element signature="e#314#315#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#OneSevenZero_Two_Sum_III_Data_Structure_Design#0" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#OneSevenZero_Two_Sum_III_Data_Structure_Design#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1114,21 +1075,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Test/Tester.java">
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoFourSix_Strobogrammatic_Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="1500">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/ThreeFiveNine_Logger_Rate_Limiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="docComment;method#ThreeFiveNine_Logger_Rate_Limiter#0;class#ThreeFiveNine_Logger_Rate_Limiter#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="docComment;method#shouldPrintMessage#0;class#ThreeFiveNine_Logger_Rate_Limiter#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/SixTwoFour_Maximum_Distance_in_Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2900">
+          <caret line="57" column="26" lean-forward="false" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/SevenThreeFour_Sentence_Similarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoFourSix_Strobogrammatic_Number.java">
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Test/Tester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="250">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/SevenTwoZero_Longest_Word_in_Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1626">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
