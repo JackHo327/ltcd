@@ -19,8 +19,8 @@
       <file leaf-file-name="OneSix_3Sums_Closet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/OneSix_3Sums_Closet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1576">
-              <caret line="39" column="9" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="250">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -649,12 +649,12 @@
       <workItem from="1515475494120" duration="4162000" />
       <workItem from="1515646745907" duration="2590000" />
       <workItem from="1515731794367" duration="45000" />
-      <workItem from="1516082054514" duration="7898000" />
+      <workItem from="1516082054514" duration="8447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200772000" />
+    <option name="totallyTimeSpent" value="201321000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1167,8 +1167,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/OneSix_3Sums_Closet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1576">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="250">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
