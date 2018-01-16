@@ -16,27 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FourFourTwo_Find_All_Duplicates_in_an_Array.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/FourFourTwo_Find_All_Duplicates_in_an_Array.java">
+      <file leaf-file-name="OneSix_3Sums_Closet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/OneSix_3Sums_Closet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="776">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FourFiveOne_Sort_Characters_By_Frequency.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/FourFiveOne_Sort_Characters_By_Frequency.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1576">
+              <caret line="39" column="9" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="39" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -193,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithms/src/Algos/FiveSevenFive_Distribute_Candies.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoZeroFour_Count_Primes.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoZeroFive_Isomorphic_Strings.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/ThreeFiveZero_Intersection_Of_Two_Arrays_II.java" />
@@ -244,6 +228,7 @@
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoSevenZero_Closest_Binary_Search_Tree_Value.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/FourFourTwo_Find_All_Duplicates_in_an_Array.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/FourFiveOne_Sort_Characters_By_Frequency.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Algos/OneSix_3Sums_Closet.java" />
       </list>
     </option>
   </component>
@@ -363,6 +348,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="Algos" type="cbb8eebc:String" user="Algos" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,30 +399,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Algorithms" type="cbb8eebc:String" user="Algorithms" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="Algos" type="cbb8eebc:String" user="Algos" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -438,7 +423,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FourFourTwo_Find_All_Duplicates_in_an_Array">
+  <component name="RunManager" selected="Application.OneSix_3Sums_Closet">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -483,14 +468,14 @@
       <module name="Algorithms" />
       <envs />
     </configuration>
-    <configuration name="FourSixThree_Island_Perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MorrisTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algos.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algos.FourSixThree_Island_Perimeter" />
+      <option name="MAIN_CLASS_NAME" value="Test.MorrisTraversal" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -502,14 +487,14 @@
       <module name="Algorithms" />
       <envs />
     </configuration>
-    <configuration name="MorrisTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="OneSix_3Sums_Closet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Algos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Test.MorrisTraversal" />
+      <option name="MAIN_CLASS_NAME" value="Algos.OneSix_3Sums_Closet" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -594,19 +579,19 @@
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FourSixThree_Island_Perimeter" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FourFiveOne_Sort_Characters_By_Frequency" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Tester" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MorrisTraversal" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FourFourTwo_Find_All_Duplicates_in_an_Array" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FourFiveOne_Sort_Characters_By_Frequency" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Tester" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MorrisTraversal" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FourFourTwo_Find_All_Duplicates_in_an_Array" />
+      <item index="4" class="java.lang.String" itemvalue="Application.OneSix_3Sums_Closet" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FourFourTwo_Find_All_Duplicates_in_an_Array" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MorrisTraversal" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Tester" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FourFiveOne_Sort_Characters_By_Frequency" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FourSixThree_Island_Perimeter" />
+        <item index="0" class="java.lang.String" itemvalue="Application.OneSix_3Sums_Closet" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FourFourTwo_Find_All_Duplicates_in_an_Array" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MorrisTraversal" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Tester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FourFiveOne_Sort_Characters_By_Frequency" />
       </list>
     </recent_temporary>
   </component>
@@ -662,12 +647,14 @@
       <workItem from="1515264393400" duration="8350000" />
       <workItem from="1515352949776" duration="14183000" />
       <workItem from="1515475494120" duration="4162000" />
-      <workItem from="1515646745907" duration="2024000" />
+      <workItem from="1515646745907" duration="2590000" />
+      <workItem from="1515731794367" duration="45000" />
+      <workItem from="1516082054514" duration="7898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192263000" />
+    <option name="totallyTimeSpent" value="200772000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,10 +676,10 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30721924" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="0" y="0" width="917" height="1920" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18903743" sideWeight="0.5208562" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19385026" sideWeight="0.5230516" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18903743" sideWeight="0.4791438" order="0" side_tool="false" content_ui="combo" x="93" y="265" width="947" height="1262" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19385026" sideWeight="0.4769484" order="0" side_tool="false" content_ui="combo" x="93" y="265" width="947" height="1262" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986666" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -750,13 +737,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10150">
-          <caret line="657" column="0" lean-forward="false" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoZeroFive_Isomorphic_Strings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -1166,8 +1146,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/FourFourTwo_Find_All_Duplicates_in_an_Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="1350">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="e#171#172#0" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
@@ -1177,11 +1157,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/FourFiveOne_Sort_Characters_By_Frequency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/OneSix_3Sums_Closet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1576">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="39" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
