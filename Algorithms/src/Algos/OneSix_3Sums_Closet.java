@@ -3,7 +3,7 @@ package Algos;
 import java.util.Arrays;
 
 public class OneSix_3Sums_Closet {
-    
+
     public int threeSumClosest(int[] nums, int target) {
 
         // sort the array - then could escape duplicated ones.
