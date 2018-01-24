@@ -15,7 +15,24 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
+      <file leaf-file-name="TwoFiveThree_Meeting_Room_II.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoFiveThree_Meeting_Room_II.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -167,9 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithms/src/Algos/FourThreeEight_Find_All_Anagrams_in_a_String.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoSixSix_Palindrome_Permutation.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoEightEight_Unique_Word_Abbreviation.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/OneSevenZero_Two_Sum_III_Data_Structure_Design.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/FourZeroNine_Longest_Palindrome.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/FiveNineNine_Minimum_Index_Sum_of_Two_List.java" />
@@ -218,6 +232,9 @@
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/FourFiveFour_4Sum_II.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/SixOneOne_Valid_Triangle_Number.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoSeven_Seven_Basic_Calculator_II.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Algos/FiveFourSeven_Friend_Circles.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoFiveTwo_Meeting_Room.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/Algos/TwoFiveThree_Meeting_Room_II.java" />
       </list>
     </option>
   </component>
@@ -642,11 +659,13 @@
       <workItem from="1516136471421" duration="5142000" />
       <workItem from="1516177292852" duration="57000" />
       <workItem from="1516230498597" duration="7479000" />
+      <workItem from="1516743837637" duration="2353000" />
+      <workItem from="1516754863357" duration="5310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214166000" />
+    <option name="totallyTimeSpent" value="221829000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -659,24 +678,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="8626" y="-14" width="4348" height="2391" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32871476" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4061471" sideWeight="0.50106955" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.307109" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="0" y="0" width="917" height="1920" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17819905" sideWeight="0.52699476" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17819905" sideWeight="0.52699476" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17819905" sideWeight="0.47300526" order="0" side_tool="false" content_ui="combo" x="93" y="265" width="947" height="1262" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18222749" sideWeight="0.47300526" order="0" side_tool="false" content_ui="combo" x="93" y="265" width="947" height="1262" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986666" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32871476" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -728,27 +748,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/FourThreeEight_Find_All_Anagrams_in_a_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoSixSix_Palindrome_Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoEightEight_Unique_Word_Abbreviation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2450">
-          <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/OneSevenZero_Two_Sum_III_Data_Structure_Design.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2550">
@@ -1082,7 +1081,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/FiveFourSeven_Friend_Circles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoFiveTwo_Meeting_Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1497">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/Algos/TwoFiveThree_Meeting_Room_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
